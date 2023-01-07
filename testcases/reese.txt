@@ -1,0 +1,34 @@
+REGISTER reese parwerd
+DELAY 3
+LOGIN reese parwerd
+DELAY 1
+SEND hi
+DELAY 1
+SENDA hello
+DELAY 1
+SENDA hello2
+DELAY 1
+SEND hi
+DELAY 1
+SENDA hello
+DELAY 1
+SENDA hello2
+DELAY 1
+SEND hi
+DELAY 1
+SENDA hello
+DELAY 1
+SENDA hello2
+DELAY 1
+SEND hi
+DELAY 1
+SENDA hello
+DELAY 1
+SENDA hello2
+DELAY 1
+SEND hi
+DELAY 1
+SENDA hello
+DELAY 1
+SENDA hello2
+DELAY 100
